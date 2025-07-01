@@ -73,8 +73,7 @@ java src.Main
 5. Exit
 Choose an option:
 ```
-##Sample output video
-![Task Manager Screenshot](demo.png)
+
 
 ---
 
